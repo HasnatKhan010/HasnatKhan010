@@ -16,8 +16,7 @@
 
 ## 📌 About Me  
 - 🎓 **AI Major (Ongoing)** – Aspiring **Data Scientist & Developer**  
-- 💻 Passionate about **Machine Learning, Full-Stack Development, & Problem-Solving**  
-- 🚀 Currently exploring **Deep Learning, NLP, and Cloud Computing**  
+- 💻 Passionate about **Machine Learning, Full-Stack Development, & Problem-Solving**    
 - 🔍 Always seeking new challenges and opportunities  
 - 🎨 I enjoy integrating creative coding and dynamic animations in my projects  
 
@@ -29,7 +28,7 @@
     <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge&logo=coursera" alt="Coursera Certificate"/>
   </a>
   <br>
-  <strong>Foundations of Cybersecurity – Coursera</strong>
+  <strong>Coursera</strong>
 </p>
 
 ---
@@ -138,7 +137,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [**Project 1**](https://github.com/Hasnatkhan010/PROJECT_1)  
+- 🔹 [**Project 1**](https://github.com/Hasnatkhan010/PROJECT_1) 
 - 🔹 [**Project 2**](https://github.com/Hasnatkhan010/PROJECT_2)  
 - 🔹 [**Project 3**](https://github.com/Hasnatkhan010/PROJECT_3)  
 
