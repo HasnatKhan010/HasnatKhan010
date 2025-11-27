@@ -1,5 +1,5 @@
 <!-- Profile Header with Animated Text -->
-<h1 align="center">Hi there, I'm <span style="color:#ff6600">Hasnatkhan010</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#ff6600">Hasnatkhan</span> 👋</h1>
 <h3 align="center">🚀 AI Enthusiast | Data Science Learner | Developer</h3>
 
 <!-- Typing Animation -->
@@ -7,12 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&center=true&vCenter=true&lines=AI+%7C+Data+Science+Learner;Developer+at+Heart;Always+Innovating+and+Learning" alt="Typing Animation"/>
 </p>
 
-<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasnatkhan010&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Visitors-Tracking-blueviolet?style=for-the-badge" alt="Visitors Badge"/>
 </p>
 
----
 
 ## 📌 About Me  
 - 🎓 **AI Major (Ongoing)** – Aspiring **Data Scientist & Developer**  
