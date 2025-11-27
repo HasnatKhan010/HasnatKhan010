@@ -23,9 +23,18 @@
 
 ---
 
+## 🎓 Certifications  
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/3CLZW0ONK6O6" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge&logo=coursera" alt="Coursera Certificate"/>
+  </a>
+  <br>
+  <strong>Foundations of Cybersecurity – Coursera</strong>
+</p>
+
+---
 
 ## 🚀 Skills & Technologies
-
 <div align="center">
 
 ### 👨‍💻 Programming Languages
@@ -109,15 +118,11 @@
 ---
 
 ## 📊 GitHub Statistics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasnatkhan010&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-
-
 ## 📈 Contribution Graph  
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnatkhan010&theme=github" alt="Contribution Graph" />
 </p>
@@ -125,7 +130,6 @@
 ---
 
 ## 🏆 GitHub Achievements
-
 <div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 10px;">
   <h3 style="color: #ffffff; font-family: sans-serif;">My GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=Hasnatkhan010&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Achievements" />
@@ -133,12 +137,10 @@
 
 ---
 
-
-
 ## 📂 Featured Projects  
-- 🔹 [**Project 1**](https://github.com/Hasnatkhan010/PROJECT_1) - its comming.  
-- 🔹 [**Project 2**](https://github.com/Hasnatkhan010/PROJECT_2) - its comming.  
-- 🔹 [**Project 3**](https://github.com/Hasnatkhan010/PROJECT_3) - its comming.
+- 🔹 [**Project 1**](https://github.com/Hasnatkhan010/PROJECT_1)  
+- 🔹 [**Project 2**](https://github.com/Hasnatkhan010/PROJECT_2)  
+- 🔹 [**Project 3**](https://github.com/Hasnatkhan010/PROJECT_3)  
 
 ---
 
