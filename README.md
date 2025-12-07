@@ -88,10 +88,7 @@ learner = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasnatKhan010&show_icons=true&count_private=true&hide_border=true&title_color=10a37f&icon_color=10a37f&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnatKhan010&layout=compact&hide_border=true&title_color=10a37f&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
+
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnatKhan010&theme=tokyonight&hide_border=true&background=0D1117&stroke=10a37f&ring=10a37f&fire=10a37f&currStreakLabel=10a37f" alt="Streak Stats"/>
