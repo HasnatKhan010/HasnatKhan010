@@ -1,171 +1,145 @@
-<!-- Profile Header with Animated Text -->
-<h1 align="center">Hi there, I'm <span style="color:#ff6600">Hasnatkhan</span> 👋</h1>
-<h3 align="center">🚀 AI Enthusiast | Data Science Learner | Developer</h3>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,29,35&height=180&section=header&text=Hasnat%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Learner%20%7C%20Data%20Science%20Learner&descAlignY=52&descSize=18"/>
+</div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&center=true&vCenter=true&lines=AI+%7C+Data+Science+Learner;Developer+at+Heart;Always+Innovating+and+Learning" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10a37f&center=true&vCenter=true&random=false&width=700&lines=Learning+Machine+Learning;Learning+Data+Science;Python+%7C+Data+Analysis;JavaScript+%7C+Web+Development" alt="Typing Animation"/>
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Tracking-blueviolet?style=for-the-badge" alt="Visitors Badge"/>
-</p>
-
-
-## 📌 About Me  
-- 🎓 **AI Major (Ongoing)** – Aspiring **Data Scientist & Developer**  
-- 💻 Passionate about **Machine Learning, Full-Stack Development, & Problem-Solving**    
-- 🔍 Always seeking new challenges and opportunities  
-- 🎨 I enjoy integrating creative coding and dynamic animations in my projects  
-
----
-
-## 🎓 Certifications  
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/3CLZW0ONK6O6" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge&logo=coursera" alt="Coursera Certificate"/>
-  </a>
-  <br>
-  <strong>Coursera</strong>
+  <img src="https://komarev.com/ghpvc/?username=HasnatKhan010&style=for-the-badge&color=10a37f&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/HasnatKhan010?style=for-the-badge&color=10a37f&labelColor=1e1e2e&logo=github" alt="Followers"/>
 </p>
 
 ---
 
-## 🚀 Skills & Technologies
+## About Me
+
+```python
+learner = {
+    "name": "Hasnat Khan",
+    "focus": ["Machine Learning", "Data Science"],
+    "learning": ["ML Algorithms", "Data Analysis", "Web Development"]
+}
+```
+
+- 🎓 **AI Major** – Learning **Machine Learning & Data Science**
+- 📊 Learning **Data Analysis & ML Algorithms**
+- 💻 Working on **Windows 11 & Kali Linux**
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 🐍 Core Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/><br>
-      <strong>Python</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java"/><br>
-      <strong>Java</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++"/><br>
-      <strong>C++</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/><br>
-      <strong>C</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/><br>
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js"/><br>
-      <strong>Node.js</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL"/><br>
-      <strong>SQL</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML"/><br>
-      <strong>HTML</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS"/><br>
-      <strong>CSS</strong>
-    </td>
-  </tr>
-</table>
+### 📊 Data Science & ML (Current)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### ⚡ Frameworks & Tools
+### 💻 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff" alt="Spring Boot"/><br>
-      <strong>Spring Boot</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/><br>
-      <strong>Git</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/><br>
-      <strong>GitHub</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/><br>
-      <strong>Docker</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/><br>
-      <strong>PostgreSQL</strong>
-    </td>
-  </tr>
-</table>
+### 🔧 Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnatkhan010&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📚 Learning Path
 
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnatkhan010&theme=github" alt="Contribution Graph" />
-</p>
+### ✅ Currently Learning
+- **Pandas** – Data manipulation & analysis
+- **NumPy** – Numerical computing
+- **Matplotlib** – Data visualization
+- **Scikit-learn** – Machine learning algorithms
+- **SciPy** – Scientific computing
+- **JavaScript** – Web development
+- **Node.js & Express** – Backend development
+
+### 🎯 Next Level (Planned)
+- **PyTorch** – Deep learning framework
+- **TensorFlow & Keras** – Neural networks & advanced ML
+- **React** – Frontend development
 
 ---
 
-## 🏆 GitHub Achievements
-<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 10px;">
-  <h3 style="color: #ffffff; font-family: sans-serif;">My GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasnatkhan010&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Achievements" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasnatKhan010&show_icons=true&count_private=true&hide_border=true&title_color=10a37f&icon_color=10a37f&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnatKhan010&layout=compact&hide_border=true&title_color=10a37f&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnatKhan010&theme=tokyonight&hide_border=true&background=0D1117&stroke=10a37f&ring=10a37f&fire=10a37f&currStreakLabel=10a37f" alt="Streak Stats"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasnatKhan010&custom_title=Learning%20Timeline&bg_color=0d1117&color=10a37f&line=10a37f&point=ffffff&area_color=10a37f&title_color=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 📂 Featured Projects  
-- 🔹 [**Project 1**](https://github.com/Hasnatkhan010/PROJECT_1) 
-- 🔹 [**Project 2**](https://github.com/Hasnatkhan010/PROJECT_2)  
-- 🔹 [**Project 3**](https://github.com/Hasnatkhan010/PROJECT_3)  
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 🔗 Professional & Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/YOUR_REDDIT)
+
+### 💻 Developer Communities
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasnatKhan010)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR_SO_ID)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD54F?style=for-the-badge&logo=huggingface&logoColor=000000)](https://huggingface.co/YOUR_HF)
+
+### 📧 Messaging & Communication
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_WHATSAPP)
+
+</div>
 
 ---
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,29,35&height=100&section=footer"/>
 
----
-
-🚀 **Keep Innovating and Happy Coding!** 🔥
+<div align="center">
+  <b>Learning and Building 🚀</b>
+  <br><br>
+  Last Updated: 2025-12-07
+</div>
