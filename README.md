@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://www.hasnatkhan.tech/">
+    <img src="https://img.shields.io/badge/✦_ENTER_MY_DIGITAL_LAB-000000?style=for-the-badge&logoColor=white" alt="Hasnat Khan Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>◈ AI • ML • GEN AI • COMPUTER VISION • BUILDING WHAT'S NEXT ◈</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/HasnatKhan010">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
@@ -37,12 +47,12 @@
 
 ### ▌ Verified Competencies
 
-| Certification | Issuing Authority | Focus |
-| :---: | :---: | :---: |
-| [**Crash Course on Python**](https://coursera.org/share/5b3e7663548a9325ce49906c8e4893fe) | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/> | Data Structures & Algorithmic Problem Solving |
-| [**Mathematics for ML & DS**](https://coursera.org/share/cad9f1738a338e286bd97213512ec307) | <img src="https://img.shields.io/badge/DeepLearning.AI-F56D25?style=flat-square" alt="DeepLearning.AI"/> | Linear Algebra, Calculus, Probability |
-| [**Machine Learning**](https://coursera.org/share/7bccd0956f698ef5027a2768c5152714) | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/> | Model Deployment & Neural Networks |
-| [**ACT AI — Competency & Tools**](https://actai.aiskillbridge.pk/v/YAVFR8KV2JRXEF2L) | <img src="https://img.shields.io/badge/AI_SkillBridge-123F3E?style=flat-square" alt="AI SkillBridge"/> | Artificial Intelligence |
+|                                        Certification                                       |                                                  Issuing Authority                                                 |                     Focus                     |
+| :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
+|  [**Crash Course on Python**](https://coursera.org/share/5b3e7663548a9325ce49906c8e4893fe) | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/> | Data Structures & Algorithmic Problem Solving |
+| [**Mathematics for ML & DS**](https://coursera.org/share/cad9f1738a338e286bd97213512ec307) |      <img src="https://img.shields.io/badge/DeepLearning.AI-F56D25?style=flat-square" alt="DeepLearning.AI"/>      |     Linear Algebra, Calculus, Probability     |
+|     [**Machine Learning**](https://coursera.org/share/7bccd0956f698ef5027a2768c5152714)    |      <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>     |       Model Deployment & Neural Networks      |
+|    [**ACT AI — Competency & Tools**](https://actai.aiskillbridge.pk/v/YAVFR8KV2JRXEF2L)    |       <img src="https://img.shields.io/badge/AI_SkillBridge-123F3E?style=flat-square" alt="AI SkillBridge"/>       |            Artificial Intelligence            |
 
 </div>
 
