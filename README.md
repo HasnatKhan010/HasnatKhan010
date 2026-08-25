@@ -8,14 +8,14 @@
   <sub>◈ AI • ML • GEN AI • COMPUTER VISION • BUILDING WHAT'S NEXT ◈</sub>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/HasnatKhan010">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
       <img alt="Hasnat Khan Terminal & Deep Neural Network Profile" src="dark.svg" width="100%">
     </picture>
   </a>
-</p>
+</p> -->
 
 <br/>
 
