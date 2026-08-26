@@ -43,7 +43,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 ### ▌ Verified Competencies
 
@@ -54,7 +54,7 @@
 |     [**Machine Learning**](https://coursera.org/share/7bccd0956f698ef5027a2768c5152714)    |      <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>     |       Model Deployment & Neural Networks      |
 |    [**ACT AI — Competency & Tools**](https://actai.aiskillbridge.pk/v/YAVFR8KV2JRXEF2L)    |       <img src="https://img.shields.io/badge/AI_SkillBridge-123F3E?style=flat-square" alt="AI SkillBridge"/>       |            Artificial Intelligence            |
 
-</div>
+</div> -->
 
 ---
 
