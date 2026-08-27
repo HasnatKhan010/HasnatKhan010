@@ -8,6 +8,10 @@
   <sub>◈ AI • ML • GEN AI • COMPUTER VISION • BUILDING WHAT'S NEXT ◈</sub>
 </p>
 
+<p align="center">
+  <img src="./Kung Fu Dreamworks GIF by Kung Fu Panda 4.gif" width="50%" height="150"/>
+</p>
+
 <!-- <p align="center">
   <a href="https://github.com/HasnatKhan010">
     <picture>
