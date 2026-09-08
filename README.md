@@ -24,12 +24,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/has-nat-kh-an-4ab866422/">
+  <a href="https://www.linkedin.com/in/hasnat-khan-8706222b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.reddit.com/user/Just_Willingness_591/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+
   </a>
   &nbsp;
   <a href="mailto:hk5610504@gmail.com">
